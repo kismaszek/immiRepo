@@ -1,0 +1,4 @@
+RewriteEngine ON
+RewriteRule \.(ico|js|css|gif|jpe?g|png)$ - [L]
+RewriteRule ^admin/ admin/index.php [L]
+RewriteRule ^(.*) index.php

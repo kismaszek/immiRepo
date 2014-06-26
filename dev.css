@@ -1,0 +1,36 @@
+/* Fejlesztés panel stílusa */
+#dev{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+#dev-header{
+	background-color: #CCC;
+}
+
+#dev-header h1{
+	color: #333;
+	padding: 10px;
+	margin: 0;
+	display: block;
+	cursor: pointer;
+}
+
+#dev-content{
+	height: 400px;
+	padding: 30px;
+	color: #666;
+	background-color: #FFF;
+	overflow: scroll;
+	display: none;
+}
+
+.dev-box{
+	display: block;
+	float: left;
+	width: 30%;
+	word-break:break-all;
+	padding: 10px 30px;
+}

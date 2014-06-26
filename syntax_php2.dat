@@ -1,0 +1,232 @@
+[Css: Class selector]
+Background=536870911
+Foreground=8388736
+Style=0
+[Css: Comment]
+Background=536870911
+Foreground=33023
+Style=0
+[Css: Error]
+Background=536870911
+Foreground=255
+Style=4
+[Css: Id selector]
+Background=536870911
+Foreground=8388736
+Style=0
+[Css: Number value]
+Background=536870911
+Foreground=16711680
+Style=0
+[Css: Property]
+Background=536870911
+Foreground=4194432
+Style=0
+[Css: Ruleset whitespace]
+Background=536870911
+Foreground=536870911
+Style=0
+[Css: Selector]
+Background=536870911
+Foreground=8388736
+Style=1
+[Css: Special]
+Background=536870911
+Foreground=536870911
+Style=0
+[Css: String value]
+Background=536870911
+Foreground=16711680
+Style=0
+[Css: Symbol]
+Background=536870911
+Foreground=16711680
+Style=0
+[Css: Undefined property]
+Background=536870911
+Foreground=255
+Style=4
+[Css: Undefined selector]
+Background=536870911
+Foreground=255
+Style=0
+[Css: Undefined value]
+Background=536870911
+Foreground=255
+Style=4
+[Css: Value]
+Background=536870911
+Foreground=16711680
+Style=0
+[Css: Whitespace]
+Background=536870911
+Foreground=536870911
+Style=0
+[Es: Comment]
+Background=536870911
+Foreground=33023
+Style=0
+[Es: Error]
+Background=536870911
+Foreground=255
+Style=5
+[Es: Identifier]
+Background=536870911
+Foreground=16711680
+Style=0
+[Es: Key]
+Background=536870911
+Foreground=536870911
+Style=1
+[Es: Number]
+Background=536870911
+Foreground=32768
+Style=0
+[Es: String]
+Background=536870911
+Foreground=255
+Style=0
+[Es: Symbol]
+Background=536870911
+Foreground=536870911
+Style=0
+[Es: Whitespace]
+Background=536870911
+Foreground=536870911
+Style=0
+[Global: Inactive]
+Background=16777215
+Foreground=8421504
+Style=0
+[ML: Comment]
+Background=536870911
+Foreground=33023
+Style=0
+[ML: Error]
+Background=536870911
+Foreground=255
+Style=4
+[ML: Escaped amps]
+Background=536870911
+Foreground=4227327
+Style=0
+[ML: Key]
+Background=536870911
+Foreground=5803053
+Style=0
+[ML: Quoted value]
+Background=536870911
+Foreground=536870911
+Style=0
+[ML: Symbol]
+Background=536870911
+Foreground=536870911
+Style=0
+[ML: Tag]
+Background=536870911
+Foreground=8388608
+Style=0
+[ML: Tag name]
+Background=536870911
+Foreground=11432766
+Style=0
+[ML: Text]
+Background=536870911
+Foreground=536870911
+Style=0
+[ML: Undefined key]
+Background=536870911
+Foreground=255
+Style=4
+[ML: Undefined tag name]
+Background=536870911
+Foreground=255
+Style=4
+[ML: Value]
+Background=536870911
+Foreground=16711935
+Style=0
+[ML: Whitespace]
+Background=536870911
+Foreground=536870911
+Style=0
+[PHP: Comment]
+Background=536870911
+Foreground=10855845
+Style=0
+[PHP: Constant]
+Background=536870911
+Foreground=16711808
+Style=0
+[PHP: DocComment]
+Background=536870911
+Foreground=33023
+Style=0
+[PHP: DocComment Tag]
+Background=536870911
+Foreground=16711680
+Style=0
+[PHP: Error]
+Background=536870911
+Foreground=170
+Style=4
+[PHP: Function]
+Background=536870911
+Foreground=32768
+Style=1
+[PHP: Identifier]
+Background=536870911
+Foreground=32768
+Style=0
+[PHP: Inline text]
+Background=536870911
+Foreground=536870911
+Style=0
+[PHP: Keyword]
+Background=536870911
+Foreground=12255232
+Style=0
+[PHP: Method]
+Background=536870911
+Foreground=16744448
+Style=0
+[PHP: Number]
+Background=536870911
+Foreground=12255232
+Style=0
+[PHP: String]
+Background=536870911
+Foreground=221
+Style=0
+[PHP: String special]
+Background=12632256
+Foreground=1842431
+Style=1
+[PHP: Symbol]
+Background=536870911
+Foreground=536870911
+Style=0
+[PHP: Variable]
+Background=536870911
+Foreground=13395456
+Style=0
+[PHP: Whitespace]
+Background=536870911
+Foreground=536870911
+Style=0
+[Special: Php marker]
+Background=536870911
+Foreground=0
+Style=1
+[Special: Php Variable prefix]
+Background=536870911
+Foreground=13395456
+Style=0
+[Special: Script tag]
+Background=536870911
+Foreground=0
+Style=1
+[Special: Style tag]
+Background=536870911
+Foreground=0
+Style=1
